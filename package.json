@@ -1,0 +1,16 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
